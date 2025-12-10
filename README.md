@@ -25,13 +25,13 @@ I am a **Statistics and Analytics major** at **UC Berkeley**
 *Developed a diagnostic tool to prioritize patients for CT scans based on clinical symptoms.*
 * **Objective:** Predict traumatic brain injuries (TBI) using non-invasive indicators (dizziness, vomiting) to reduce unnecessary radiation exposure.
 * **Tech:** R, Logistic Regression, K-Nearest Neighbors (KNN), Cross-Validation.
-* **Code:** [Link to Repo](#) *(Make sure this links to your PUBLIC personal repo)*
+* **Code:** https://github.com/davydxyz/ct-prediction-model.git
 
 #### ⚡ **US Electric Vehicle Market Analysis**
 *Spatial and statistical analysis of EV infrastructure and adoption rates across the United States.*
 * **Objective:** Identified high-growth states and correlation between policy incentives and registration rates.
 * **Tech:** R (dplyr, ggplot2), Data Wrangling, Geospatial Analysis.
-* **Code:** [Link to Repo](#) *(Make sure this links to your PUBLIC personal repo)*
+* **Code:** https://github.com/davydxyz/ev-market-analysis.git
 
 ---
 
